@@ -36,16 +36,8 @@ h1, h2, h3{
   padding: 10px;
 }
 
-
 .myIngredients{
   border-left: black solid 1px;
-  /* border-width: 4px; 
-  border-style: solid;
-  margin-bottom: 20px;
-  border-color: black; 
-  border-radius: 12px; 
-  height: 420px;
-  overflow: auto; */
 }
 
 .icon{
@@ -93,14 +85,8 @@ input{
   box-shadow: 5px 10px 18px rgba(0,0,0,.5);
 }
 
-.test{
-  /* display: inline-block; */
-}
-
 tr {
   border-bottom: 1px solid rgb(174,157,143);
-  /* border-bottom: rgba(0, 0, 0,.6); */
-  /* background-image: linear-gradient(to right, rgba(237, 218, 199,0),rgba(237, 218, 199,8),rgba(237, 218, 199,0)) */
 }
 
 .instruction-div{
